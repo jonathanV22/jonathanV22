@@ -19,9 +19,15 @@
 
 | Nivel | Clase | Experiencia |
 |:-----:|:------:|:------------|
-| 29 | Full Stack Developer | 8+ años |
+| 29 | Full Stack Developer | 1 año |
 
 ---
 
 ### ⚙️ Habilidades
 
+💻 Lenguajes: PHP ██████████░░
+🧩 Frontend: Vue █████████░░░
+⚡ Frameworks: Livewire ███████░░░░
+🎨 Estilo: HTML/CSS ██████████░
+🐳 Entorno: Docker ████████░░░░
+🧠 SOs: Windows / Ubuntu ███████░░░░░
