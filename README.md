@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Retro 2D Profile - jonathanV22 -->
 
-<!--
-**jonathanV22/jonathanV22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  🎮 Jonathan Humberto Vargas Oyarzun
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.imgur.com/XbJ6q6s.gif" width="200" alt="pixel character"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🧠 Desarrollador web que disfruta convertir código en arte funcional.<br>
+  Amante de los sistemas limpios, el código legible y la estética retro.
+</p>
+
+---
+
+### 🕹️ Player Stats
+
+| Nivel | Clase | Experiencia |
+|:-----:|:------:|:------------|
+| 29 | Full Stack Developer | 8+ años |
+
+---
+
+### ⚙️ Habilidades
+
