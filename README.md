@@ -19,7 +19,7 @@
 
 | Nivel | Clase | Experiencia |
 |:-----:|:------:|:------------|
-| 29 | Full Stack Developer | 1 año |
+| 27 | Full Stack Developer | 1 año |
 
 ---
 
