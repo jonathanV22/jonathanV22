@@ -1,67 +1,69 @@
 <!-- Retro 2D Profile - jonathanV22 -->
 
-<h1 align="center">
-  🎮 Jonathan Humberto Vargas Oyarzun
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/XbJ6q6s.gif" width="200" alt="pixel character"/>
+# 🎮 JONATHAN HUMBERTO VARGAS OYARZUN
+
+<img src="https://i.imgur.com/XbJ6q6s.gif" width="200" alt="pixel character"/>
+
+<p>
+  <strong>[ CLASS: Full Stack Developer ] &nbsp;|&nbsp; [ LEVEL: 27 ] &nbsp;|&nbsp; [ EXP: 1 Year ]</strong><br>
+  <em>Desarrollador web que disfruta convertir código en arte funcional.<br>
+  Amante de los sistemas limpios, el código legible y la estética retro.</em>
 </p>
 
-<p align="center">
-  🧠 Desarrollador web que disfruta convertir código en arte funcional.<br>
-  Amante de los sistemas limpios, el código legible y la estética retro.
-</p>
+</div>
 
 ---
 
-### 🕹️ Player Stats
+<div align="center">
+  <h3>⚔️ [ SKILL TREE ] ⚔️</h3>
+</div>
 
-| Nivel | Clase | Experiencia |
-|:-----:|:------:|:------------|
-| 27 | Full Stack Developer | 1 año |
+```text
+[ LANGUAGES & FRAMEWORKS ]
+> PHP           [██████████] Lvl 10
+> Livewire      [███████░░░] Lvl 7
 
----
+[ FRONTEND & DESIGN ]
+> Vue.js        [█████████░] Lvl 9
+> HTML/CSS      [██████████] Lvl 10
 
-### ⚙️ Habilidades
-
-💻 Lenguajes: PHP ██████████░░
-🧩 Frontend: Vue █████████░░░
-⚡ Frameworks: Livewire ███████░░░░
-🎨 Estilo: HTML/CSS ██████████░
-🐳 Entorno: Docker ████████░░░░
-🧠 SOs: Windows / Ubuntu ███████░░░░░
-
----
-
-### 💾 Equipamiento
-- 🧰 Herramientas: VS Code, Git, Composer, NPM  
-- 🗄️ Base de Datos: MySQL / PostgreSQL  
-- 🧱 Arquitectura: MVC, REST, SPA  
+[ INFRA & OS ]
+> Docker        [████████░░] Lvl 8
+> Win / Ubuntu  [███████░░░] Lvl 7
+```
 
 ---
 
-### 📊 Estadísticas de GitHub
+<div align="center">
+  <h3>🛡️ [ INVENTORY / EQUIPMENT ] 🛡️</h3>
+</div>
 
-<p align="center">
+| Slot | Items Equipped |
+| :--- | :--- |
+| **🧰 Tools** | VS Code, Git, Composer, NPM |
+| **🗄️ Database** | MySQL, PostgreSQL |
+| **🧱 Architecture**| MVC, REST, SPA |
+
+---
+
+<div align="center">
+  <h3>📊 [ PLAYER STATS ] 📊</h3>
+
   <img src="https://github-readme-stats.vercel.app/api?username=jonathanV22&show_icons=true&theme=gruvbox&border_color=44475a&bg_color=1a1a1a&icon_color=fec260&title_color=fe8019&text_color=cfcfcf" alt="Stats" />
-</p>
-
-<p align="center">
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanV22&layout=compact&theme=gruvbox&bg_color=1a1a1a&border_color=44475a&title_color=fe8019&text_color=cfcfcf" alt="Top Langs" />
-</p>
+
+</div>
 
 ---
 
-### 🧭 Misión Actual
-> “Mejorar cada línea de código como si fuera mi último boss fight.”
+<div align="center">
+  <h3>🧭 [ CURRENT QUEST ] 🧭</h3>
+  <p><em>“Mejorar cada línea de código como si fuera mi último boss fight.”</em></p>
 
----
-
-<p align="center">
   <img src="https://i.imgur.com/SnZ1J6U.gif" width="300" alt="retro city gif"/>
-</p>
 
-<p align="center">
-  <strong>🕹️ jonathanV22 — Retro Dev Mode Activated ⚡</strong>
-</p>
+  <p><strong>🕹️ jonathanV22 — Retro Dev Mode Activated ⚡</strong></p>
+</div>
